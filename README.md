@@ -109,3 +109,9 @@ To fully implement the MCP features:
 ### Linting and Typing Check
 
 There are no lint or type checks implemented.
+
+
+## Notes for Mark
+    1. Use MCPJam to test your MCP Server. 
+        a. run command 'npx @mcpjam/inspector@latest'
+        b. in MCPJam use: uv run --directory C:\Users\marks\projects\MCP mcp_server.py in server config. 
